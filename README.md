@@ -2,7 +2,7 @@
 
 **Python-based business intelligence project** | Identified +$250K in profit opportunities
 
-![Top 10 Most Profitable Products](top_products.png)
+![Top 10 Most Profitable Products](top_products.png.png)
 ![Sales & Profit by Region](region_profit.png)
 
 ### Business Objective
