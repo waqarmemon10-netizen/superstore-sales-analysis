@@ -12,5 +12,5 @@ Tools: Python (Pandas, Matplotlib, Seaborn)
 [Open the full analysis here](https://github.com/waqarmemon10-netizen/superstore-sales-analysis/blob/main/Superstore_Analysis.ipynb)  
 
 ### Preview  
-![Top 10 Most Profitable Products]  (<img width="656" height="346" alt="image" src="https://github.com/user-attachments/assets/7b98668b-e15f-4949-80a5-6374e5962fac" />
-)
+[Top 10 Most Profitable Products]  <img width="656" height="346" alt="image" src="https://github.com/user-attachments/assets/7b98668b-e15f-4949-80a5-6374e5962fac" />
+
