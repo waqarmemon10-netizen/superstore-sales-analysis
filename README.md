@@ -1,7 +1,7 @@
 # Superstore Sales Profitability Analysis
 
 ### Interactive Tableau Dashboard
-[View Live Dashboard →]([https://public.tableau.com/views/SuperstoreSalesAnalysis-WaqarMemon/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/authoring/SuperstoreSalesAnalysisWaqarMemon/SuperstoreSalesProfitabilityDashboard#1))
+[View Live Dashboard →] ([https://public.tableau.com/views/SuperstoreSalesAnalysis-WaqarMemon/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/authoring/SuperstoreSalesAnalysisWaqarMemon/SuperstoreSalesProfitabilityDashboard#1))
 
 **Python-based business intelligence project** | Identified +$250K in profit opportunities
 
