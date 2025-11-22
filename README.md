@@ -18,6 +18,9 @@ Analyze 4 years of U.S. superstore sales data to maximize profit.
 - Top customers drive disproportionate profit → Create loyalty program
 
 ### Live Analysis
+
+**Quick Stats**: $2.35M total sales | +$286K profit | Tech = 51% of wins
+
 [Open notebook on GitHub →](https://github.com/waqarmemon10-netizen/superstore-sales-analysis/blob/main/Superstore_Analysis.ipynb)
 
 [Run instantly in Google Colab (no install needed) →](https://colab.research.google.com/github/waqarmemon10-netizen/superstore-sales-analysis/blob/main/Superstore_Analysis.ipynb)
